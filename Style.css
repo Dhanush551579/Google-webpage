@@ -1,0 +1,37 @@
+<style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin-top: 15%;
+      background: #fff;
+      color: #202124;
+    }
+    input[type="text"] {
+      width: 50%;
+      padding: 10px;
+      font-size: 16px;
+      border: 1px solid #ccc;
+      border-radius: 24px;
+      outline: none;
+    }
+    .buttons {
+      margin-top: 20px;
+    }
+    input[type="submit"] {
+      padding: 10px 20px;
+      margin: 5px;
+      font-size: 14px;
+      border: 1px solid #ccc;
+      background-color: #f8f9fa;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    input[type="submit"]:hover {
+      background-color: #f1f1f1;
+    }
+    img {
+      width: 272px;
+      height: 92px;
+      margin-bottom: 20px;
+    }
+  </style>
